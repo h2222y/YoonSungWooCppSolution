@@ -19,6 +19,18 @@
     <Filter Include="소스 파일\01_2">
       <UniqueIdentifier>{169fe0d6-0287-4683-8a00-918141771a1d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\01_3">
+      <UniqueIdentifier>{633eb033-6bed-400b-9bb7-8fcbec0822a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01_4">
+      <UniqueIdentifier>{18a0c8f7-a4e0-4fd5-933e-795c985ba57b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\01_4">
+      <UniqueIdentifier>{f2b4b6e9-b34c-4621-8225-0f75d4d1f19f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01_6">
+      <UniqueIdentifier>{5de3a55c-b1a0-49c5-b849-efa88c3da04c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01_1_Question1.cpp">
@@ -36,5 +48,25 @@
     <ClCompile Include="01_2_Question1.cpp">
       <Filter>소스 파일\01_2</Filter>
     </ClCompile>
+    <ClCompile Include="01_3_Question1.cpp">
+      <Filter>소스 파일\01_3</Filter>
+    </ClCompile>
+    <ClCompile Include="01_3_Question2.cpp">
+      <Filter>소스 파일\01_3</Filter>
+    </ClCompile>
+    <ClCompile Include="01_4_NamespFunc.cpp">
+      <Filter>소스 파일\01_4</Filter>
+    </ClCompile>
+    <ClCompile Include="01_4_NamespMain.cpp">
+      <Filter>소스 파일\01_4</Filter>
+    </ClCompile>
+    <ClCompile Include="01_6_BankingSystemVer01.cpp">
+      <Filter>소스 파일\01_6</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="01_4_NamespHeader.h">
+      <Filter>헤더 파일\01_4</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
